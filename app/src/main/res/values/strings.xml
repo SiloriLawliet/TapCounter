@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TapCounter</string>
+    <string name="unlock">UnLock</string>
+    <string name="lock">Lock</string>
+    <string name="number_of_count">Number of count:</string>
+    <string name="reduce_count">Reduce Count</string>
+    <string name="reset">Reset</string>
+</resources>
